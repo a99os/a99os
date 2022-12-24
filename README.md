@@ -1,5 +1,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://t.me/A99oc" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="A99oc" height="30" width="40" /></a>
 <a href="https://twitter.com/a99oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a99oc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abbos-ashirboyev-503918177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abbos-ashirboyev-503918177" height="30" width="40" /></a>
 <a href="https://fb.com/a66oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a66oc" height="30" width="40" /></a>
